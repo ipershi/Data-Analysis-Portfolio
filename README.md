@@ -1,4 +1,3 @@
-# GitHub-Portfolio
 # Data Analysis Portfolio
 
 Data Analyst | Python, pandas, NumPy, Matplotlib, Seaborn  
