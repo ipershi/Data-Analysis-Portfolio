@@ -1,14 +1,20 @@
 # Data Analysis Portfolio
 
-Data Analyst | Python, pandas, NumPy, Matplotlib, Seaborn  
+Business Analyst expanding into data analytics | Python, Pandas, NumPy, Matplotlib, Seaborn 
+
 Building UK-relevant data analysis projects & interactive dashboards  
+
 
 ## Projects Overview
 
 ### Python Projects
- 
-
+1. 
+2.
+3.
 ### Dashboards
+1. 
+2.
+3.
  
 
 ## Contact
